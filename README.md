@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there! 👋
+I’m Sharanya, a passionate developer and final-year B.Tech student at KL University, specializing in Artificial Intelligence & Data Science.
+
+🚀 I love building interactive and impactful web applications and solving real-world problems through code.  
+🎯 I thrive at the intersection of design and functionality, often pushing boundaries with various tools which only my github is aware of!!
+
+
 
 <!--
 **V-Sharanya/V-Sharanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
