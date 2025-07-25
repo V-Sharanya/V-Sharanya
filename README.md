@@ -6,6 +6,10 @@ I’m Sharanya, a passionate developer and final-year B.Tech student at KL Unive
 
 <img src="https://github.com/V-Sharanya/V-Sharanya/blob/main/profile%20banner.png" alt="banner that says probably everything about Sharanya">
 
+![Sharanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=V-Sharanya&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Sharanya&layout=compact&theme=radical)
+
 
 
 <!--
