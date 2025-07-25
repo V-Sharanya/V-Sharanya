@@ -4,6 +4,8 @@ I’m Sharanya, a passionate developer and final-year B.Tech student at KL Unive
 🚀 I love building interactive and impactful web applications and solving real-world problems through code.  
 🎯 I thrive at the intersection of design and functionality, often pushing boundaries with various tools which only my github is aware of!!
 
+<img src="https://github.com/V-Sharanya/V-Sharanya/blob/main/profile%20banner.png" alt="banner that says probably everything about Sharanya">
+
 
 
 <!--
