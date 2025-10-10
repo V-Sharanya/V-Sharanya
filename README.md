@@ -22,7 +22,11 @@
 I believe great code tells a story — mine just happens to include a lot of console logs, coffee, and late-night breakthroughs.  
   
 
-<br/>  
+<br/> 
+
+
+### Hactoberfest
+[![An image of @vsharanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vsharanya)](https://holopin.io/@vsharanya)
 
 ## Tech I Can Wrestle Without Crying
 
