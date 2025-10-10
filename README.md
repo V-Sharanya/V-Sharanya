@@ -24,10 +24,6 @@ I believe great code tells a story — mine just happens to include a lot of con
 
 <br/> 
 
-
-### Hactoberfest
-[![An image of @vsharanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vsharanya)](https://holopin.io/@vsharanya)
-
 ## Tech I Can Wrestle Without Crying
 
 <div align="center">  
@@ -59,6 +55,9 @@ My brain runs on caffeine, console logs, and Stack Overflow tabs.
 I treat Git commits like diary entries — “fixed it (I think)” is totally valid.
 
 If I disappear, I’m probably lost in a CSS flexbox spiral or fighting with Android Studio.
+
+### Hactoberfest
+[![An image of @vsharanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vsharanya)](https://holopin.io/@vsharanya)
 
 
 ## My Digital Flex Zone
