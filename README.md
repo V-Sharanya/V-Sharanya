@@ -70,7 +70,7 @@ If I disappear, I’m probably lost in a CSS flexbox spiral or fighting with And
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=V-Sharanya)](https://git.io/streak-stats)
 
-## TOp Langs
+## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Sharanya&layout=compact&theme=radical)
 
 
