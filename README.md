@@ -64,7 +64,8 @@ If I disappear, I’m probably lost in a CSS flexbox spiral or fighting with And
 
 ![Sharanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=V-Sharanya&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=V-Sharanya)](https://github.com/V-Sharanya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=V-Sharanya&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/V-Sharanya/github-profile-trophy)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=V-Sharanya)](https://git.io/streak-stats)
 
